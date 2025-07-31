@@ -24,7 +24,7 @@
 		<properties>
                 <sonar.projectKey>my-web-app</sonar.projectKey>
                 <sonar.host.url>http://sonarqube:9000</sonar.host.url>
-                </properties>
+        </properties>
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
